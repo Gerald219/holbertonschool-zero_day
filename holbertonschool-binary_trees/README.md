@@ -1,0 +1,1 @@
+This project covers building and working with binary trees—structures where each node links to a parent and up to two children. It focuses on creating tree nodes, understanding depth, height, and traversals, offering faster search and organization than linked lists.
